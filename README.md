@@ -1,5 +1,5 @@
 # About Me:
-I love coding stuff, im currently working on a full stack virtual machine (not main project) my main project is a Minecraft hacked client. In MVP 1.8.9 with hypixel bypasses.
+wsp :D
 
 
 ## Socials:
